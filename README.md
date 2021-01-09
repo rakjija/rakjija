@@ -1,4 +1,9 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mjdn0011&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjdn0011&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mjdn0011&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mjdn0011&layout=compact&langs_count=8&theme=onedark"/>
+</p>
 <!--
 **mjdn0011/mjdn0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
