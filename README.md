@@ -1,8 +1,8 @@
 ### GitHub Stats
 <p align="center">
-  <a href="https://github.com/mjdn0011">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mjdn0011&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mjdn0011&layout=compact&langs_count=8&theme=onedark"/>
+  <a href="https://github.com/30ML">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=30ML&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=30ML&layout=compact&langs_count=8&theme=onedark"/>
   </a>
 </p>
 <!--
