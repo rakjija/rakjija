@@ -1,8 +1,8 @@
 ### GitHub Stats
 <p align="center">
-  <a href="https://github.com/hororoc">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hororoc&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hororoc&layout=compact&langs_count=8&theme=onedark"/>
+  <a href="https://github.com/minuzai">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minuzai&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minuzai&layout=compact&langs_count=8&theme=onedark"/>
   </a>
 </p>
 <!--
