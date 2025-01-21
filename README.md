@@ -1,7 +1,7 @@
+### 📊 GitHub Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/minjai100111">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minjai100111&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
