@@ -1,4 +1,12 @@
-### 📊 Coding Stats
+#### 📊 My Coding Stats
+<p align="center">
+  <a href="https://github.com/minjai100111">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minjai100111&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minjai100111&layout=compact&langs_count=8&theme=onedark"/>
+  </a>
+</p>
+
+#### This week I spent my time on ...
 <!--START_SECTION:waka-->
 
 ```txt
@@ -11,15 +19,7 @@ Java Properties    10 mins         █░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <a href="https://github.com/minjai100111">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minjai100111&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minjai100111&layout=compact&langs_count=8&theme=onedark"/>
-  </a>
-</p>
-
-
-### 🌱 I’m currently learning ...
+#### 🌱 I’m currently learning ...
 <p align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67623b498fe51199dad8c0c1?variant=dark&roadmaps=devops" alt="roadmap.sh"/></a>
 </p>
