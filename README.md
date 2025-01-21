@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/minjai100111">
