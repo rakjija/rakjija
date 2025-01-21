@@ -19,7 +19,7 @@ Java Properties    10 mins         █░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-#### 🌱 I’m currently learning ...
+#### 🌱 I’m currently studying ...
 <p align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67623b498fe51199dad8c0c1?variant=dark&roadmaps=devops" alt="roadmap.sh"/></a>
 </p>
