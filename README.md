@@ -1,8 +1,8 @@
 #### 📊 My Coding Stats
 <p align="center">
-  <a href="https://github.com/minjai100111">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=minjai100111&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minjai100111&layout=compact&langs_count=8&theme=onedark"/>
+  <a href="https://github.com/bonesoupmore">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bonesoupmore&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bonesoupmore&layout=compact&langs_count=8&theme=onedark"/>
   </a>
 </p>
 
