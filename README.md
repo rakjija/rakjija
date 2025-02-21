@@ -6,6 +6,11 @@
   </a>
 </p>
 
+#### 🏅 Certifications
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 #### 🗓️ This week I spent my time on ...
 <!--START_SECTION:waka-->
 
