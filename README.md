@@ -6,12 +6,6 @@
   </a>
 </p>
 
-#### 🏅 Certifications
-
-<!--START_SECTION:badges-->
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/928ddc6f-f542-48fd-8176-22dbcde29ec4 "AWS Certified Solutions Architect – Associate")
-<!--END_SECTION:badges-->
-
 #### 🗓️ This week I spent my time on ...
 <!--START_SECTION:waka-->
 
@@ -24,6 +18,13 @@ YAML       8 mins          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+#### 🏅 Certifications
+
+<!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/928ddc6f-f542-48fd-8176-22dbcde29ec4 "AWS Certified Solutions Architect – Associate")
+<!--END_SECTION:badges-->
+
 
 #### 🌱 I’m currently studying ...
 <p align="center">
