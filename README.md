@@ -27,10 +27,12 @@ YAML         21 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:badges-->
 
 
+<!--
 #### 🌱 I’m currently studying ...
 <p align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67623b498fe51199dad8c0c1?variant=dark&roadmaps=devops" alt="roadmap.sh"/></a>
 </p>
+-->
 
 <!--
 **mjdn0011/mjdn0011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
