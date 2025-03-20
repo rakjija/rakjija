@@ -22,6 +22,7 @@ YAML         21 mins         ▓░░░░░░░░░░░░░░░░
 #### 🏅 Certifications
 
 <!--START_SECTION:badges-->
+[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/533bdc47-f12c-4771-87ae-e7c23a24d762 "KCNA: Kubernetes and Cloud Native Associate")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/928ddc6f-f542-48fd-8176-22dbcde29ec4 "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
 
