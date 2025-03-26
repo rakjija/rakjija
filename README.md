@@ -34,7 +34,6 @@ Bash         3 mins          ░░░░░░░░░░░░░░░░░
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/533bdc47-f12c-4771-87ae-e7c23a24d762 "KCNA: Kubernetes and Cloud Native Associate")
 <!--END_SECTION:badges-->
 
-
 <!--
 #### 🌱 I’m currently studying ...
 <p align="center">
