@@ -7,14 +7,16 @@
 
 
 #### 📊 My Coding Stats
-<p align="center">
+<div align="center">
   <a href="https://github.com/rakjija">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakjija&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <a>
+  <a href="https://github.com/rakjija">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakjija&layout=compact&langs_count=8&theme=onedark"/>
   </a>
-</p>
+</div>
 
-#### 🗓️ This week I spent my time on ...
+#### ⌛ Weekly Dev Focus
 <!--START_SECTION:waka-->
 
 ```txt
@@ -28,11 +30,17 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 #### 🏅 Certifications
-
 <!--START_SECTION:badges-->
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/928ddc6f-f542-48fd-8176-22dbcde29ec4 "AWS Certified Solutions Architect – Associate")
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/533bdc47-f12c-4771-87ae-e7c23a24d762 "KCNA: Kubernetes and Cloud Native Associate")
 <!--END_SECTION:badges-->
+
+#### 🎯 Competitive Coding Score
+<div align="center">
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rakjija)](https://solved.ac/rakjija)
+  
+</div>
 
 <!--
 #### 🌱 I’m currently studying ...
