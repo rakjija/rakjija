@@ -1,6 +1,3 @@
-<div align="right">
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Frakjija&label=Visitors&icon=github&color=%23ffe69c">
-</div>
 
 <!--
 #### Skills
@@ -68,4 +65,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Frakjija&label=Hits&icon=github&color=%23198754)
+<div align="right">
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Frakjija&label=Visitors&icon=github&color=%23ffe69c">
+</div>
