@@ -32,8 +32,9 @@ JSON         8 mins          ░░░░░░░░░░░░░░░░░
 
 #### 🏅 Certifications
 <!--START_SECTION:badges-->
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/928ddc6f-f542-48fd-8176-22dbcde29ec4 "AWS Certified Solutions Architect – Associate")
-[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/533bdc47-f12c-4771-87ae-e7c23a24d762 "KCNA: Kubernetes and Cloud Native Associate")
+<a href="https://www.credly.com/badges/533bdc47-f12c-4771-87ae-e7c23a24d762" title="KCNA: Kubernetes and Cloud Native Associate"><img src="https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/928ddc6f-f542-48fd-8176-22dbcde29ec4" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/7c938880-8eb1-4f12-ac55-ba8669907da4" title="HashiCorp Certified: Terraform Associate (003)"><img src="https://images.credly.com/size/80x80/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 #### 🎯 Competitive Coding Score
