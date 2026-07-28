@@ -37,13 +37,6 @@ JavaScript   32 mins               ▒░░░░░░░░░░░░░░
 <a href="https://www.credly.com/badges/7c938880-8eb1-4f12-ac55-ba8669907da4" title="HashiCorp Certified: Terraform Associate (003)"><img src="https://images.credly.com/size/80x80/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
-#### 🎯 Competitive Coding Score
-<div align="center">
-  
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rakjija)](https://solved.ac/rakjija)
-  
-</div>
-
 <!--
 #### 🌱 I’m currently studying ...
 <p align="center">
